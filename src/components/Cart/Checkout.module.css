@@ -43,6 +43,11 @@
     background-color: #ffe6dc;
 }
 
+.actions button:disabled {
+    background-color: #ccc;
+    color: rgb(131, 68, 68)a01;
+}
+
 .actions .submit {
     border: 1px solid #5a1a01;
     background-color: #5a1a01;
